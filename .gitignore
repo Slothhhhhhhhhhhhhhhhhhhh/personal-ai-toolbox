@@ -1,0 +1,8 @@
+.tmp-check/
+logs/
+data/notes/**
+!data/notes/
+!data/notes/.gitkeep
+data/exports/**
+!data/exports/
+!data/exports/.gitkeep
